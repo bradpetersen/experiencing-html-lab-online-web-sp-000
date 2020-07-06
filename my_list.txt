@@ -5,4 +5,3 @@
 "Washington Capitals"
 "Carolina Hurricanes"
 "Columbus Blue Jackets"
-
